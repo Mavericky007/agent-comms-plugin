@@ -8,6 +8,5 @@
   },
   "repository": "https://github.com/Mavericky007/agent-comms-mcp",
   "license": "MIT",
-  "keywords": ["mcp", "agents", "communication", "messaging", "channels"],
-  "hooks": "./hooks/hooks.json"
+  "keywords": ["mcp", "agents", "communication", "messaging", "channels"]
 }
