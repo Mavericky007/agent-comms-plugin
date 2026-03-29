@@ -1,0 +1,19 @@
+{
+  "name": "agent-comms-plugin",
+  "owner": {
+    "name": "Mavericky007",
+    "url": "https://github.com/Mavericky007"
+  },
+  "metadata": {
+    "description": "Inter-agent communication for Claude Code instances",
+    "homepage": "https://github.com/Mavericky007/agent-comms-plugin"
+  },
+  "plugins": [
+    {
+      "name": "agent-comms",
+      "version": "1.0.0",
+      "source": "./plugin",
+      "description": "Inter-agent communication for Claude Code instances. Direct messages, channels, and a real-time web dashboard."
+    }
+  ]
+}
