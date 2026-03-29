@@ -1,0 +1,13 @@
+{
+  "name": "agent-comms",
+  "version": "1.0.0",
+  "description": "Inter-agent communication for Claude Code instances. Direct messages, channels, and a real-time web dashboard.",
+  "author": {
+    "name": "Mavericky007",
+    "url": "https://github.com/Mavericky007"
+  },
+  "repository": "https://github.com/Mavericky007/agent-comms-mcp",
+  "license": "MIT",
+  "keywords": ["mcp", "agents", "communication", "messaging", "channels"],
+  "hooks": "./hooks/hooks.json"
+}
