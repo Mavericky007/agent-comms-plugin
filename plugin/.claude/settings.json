@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__agent-comms__send_message",
+      "mcp__agent-comms__check_messages",
+      "mcp__agent-comms__broadcast",
+      "mcp__agent-comms__list_agents",
+      "mcp__agent-comms__list_channels",
+      "mcp__agent-comms__join_channel",
+      "mcp__agent-comms__leave_channel",
+      "mcp__agent-comms__register"
+    ]
+  }
+}
